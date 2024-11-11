@@ -1,6 +1,6 @@
 # User Dashboard
 
-A user dashboard application built with React and various other modern web development tools.
+A user dashboard application built with React , Tailwind and various other modern web development tools.
 
 ## Table of Contents
 
@@ -15,9 +15,10 @@ A user dashboard application built with React and various other modern web devel
 
 ---
 
-## Description
+# Description
 
 A user dashboard application built with React, allowing users to view and manage data. The application features a responsive design, form handling with validation, and data table components for displaying data and smooth navigation across various sections.
+
 ---
 
 ## Features
@@ -53,7 +54,7 @@ To set up and run the project locally, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/user-dashboard.git
+    git clone https://github.com/devsilvar/Dashbaord-Test.git
     ```
 
 2. Navigate to the project directory:
